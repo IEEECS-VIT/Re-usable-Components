@@ -1,0 +1,11 @@
+.App .instruction {
+  text-align: center;
+  width: 80%;
+  margin: 1rem auto;
+  padding: 1rem;
+  border-radius: 16px;
+  background: #e0e5ec;
+  box-shadow: 5px 5px 10px #b3b7bd, -5px -5px 10px #ffffff;
+  color: gray;
+  font-size: 1.5rem;
+}
